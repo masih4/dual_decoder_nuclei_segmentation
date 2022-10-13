@@ -1,4 +1,4 @@
-# Dual Decoder Nuclei Instance Segmentation
+# A Dual Decoder U-Net-Based Model for Nuclei Instance Segmentation in Hematoxylin and Eosin-Stained Histological Images
 This repository contains the architecture of our developed dual decoder model and other used models for nuclei instance segmentation in the following study (BibTex entry will be updated soon):
 
 BibTex entry:
