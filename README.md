@@ -6,14 +6,15 @@ https://www.frontiersin.org/articles/10.3389/fmed.2022.978146/full (open access)
 
 BibTex entry:
 ```
-@article{dualdecoder2022,
-title = "A Dual Decoder U-Net-Based Model for Nuclei Instance Segmentation in Hematoxylin and Eosin-Stained Histological Images",
-journal = "Frontiers in Medicine",
-volume = "",
-pages = "",
-year = "2022",
-doi = "",
-author = "Amirreza Mahbod and Gerald Schaefer and Georg Dorffner and Sepideh Hatamikia and Rupert Ecker and Isabella Ellinger"
+@ARTICLE{10.3389/fmed.2022.978146,
+AUTHOR={Mahbod, Amirreza  and Schaefer, Gerald  and Dorffner, Georg  and Hatamikia, Sepideh  and Ecker, Rupert  and Ellinger, Isabella },
+TITLE={A dual decoder U-Net-based model for nuclei instance segmentation in hematoxylin and eosin-stained histological images},
+JOURNAL={Frontiers in Medicine},
+VOLUME={9},
+YEAR={2022},
+URL={https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.978146},
+DOI={10.3389/fmed.2022.978146},
+ISSN={2296-858X}
 }
 ```
 
